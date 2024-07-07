@@ -1,0 +1,1 @@
+run ""./installprogram.sh"" in arch Linux  once you open your directory in which this file has been saved in .. using terminal
